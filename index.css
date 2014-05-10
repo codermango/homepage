@@ -1,0 +1,42 @@
+body {
+	margin: 0;
+}
+
+#header {
+	background-color: rgb(119,182,0);
+	/*height: 50px;*/
+	text-align: center;
+}
+
+#navigate {
+	padding: 10px;
+}
+
+#navigate a{
+	margin: 0 15px 0 15px;
+	color: white;
+	font-family: cursive;
+}
+
+#content {
+	margin: auto auto;
+	width: 500px;
+	text-align: center;	
+}
+
+#welcome {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	font-family: cursive;
+}
+
+a img {
+	margin: 20px;
+}
